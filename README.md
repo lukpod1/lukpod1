@@ -26,10 +26,7 @@ export default () => ({
       python: ["django"],
     },
     databases: ["postgres", "mysql", "mongodb"],
-  },
-  hobby: [
-      "play guitar", "play LoL"
-  ]
+  }
 });
 ```
 
