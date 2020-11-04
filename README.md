@@ -2,8 +2,6 @@
 
 <p>
 <em>Computer Science at <a href="https://www.ipes.edu.br/">IPESU</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</br>
-System Analyst Jr at <a href="https://www.hivecloud.com.br/">Hivecloud</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em>
 </p>
 
