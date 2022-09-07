@@ -9,22 +9,3 @@
 [![GitHub lukpod1](https://img.shields.io/github/followers/lukpod1?label=follow&style=social)](https://github.com/lukpod1)
 
 
-### <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="50"> A little more about me...  
-
-```js
-export default () => ({
-  technologies: {
-    frontEnd: {
-      js: ["angular"],
-      css: ["bootstrap"]
-    },
-    backEnd: {
-      java: ["spring"],
-      js: ["node", "express", "nestjs"],
-      python: ["django"],
-    },
-    databases: ["postgres", "mysql", "mongodb"],
-  }
-});
-```
-
